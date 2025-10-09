@@ -12,4 +12,5 @@
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 openjdk:17
 
-jumpserver/jms_all:v3.10.12
+#jumpserver/jms_all:v3.10.12
+kylemanna/openvpn:2.4
