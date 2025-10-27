@@ -15,4 +15,4 @@
 #jumpserver/jms_all:v3.10.12
 #kylemanna/openvpn:2.4
 #nacos/nacos-server:v2.4.3
---platform=linux/arm64 nacos/nacos-server-slim:v2.3.0
+--platform=linux/arm64 nacos/nacos-server:v2.3.0-slim
