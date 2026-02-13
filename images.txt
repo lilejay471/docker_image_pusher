@@ -15,4 +15,5 @@
 #jumpserver/jms_all:v3.10.12
 #kylemanna/openvpn:2.4
 #nacos/nacos-server:v2.4.3
---platform=linux/arm64 debian:bullseye-slim
+--platform=linux/arm64 tengine:latest
+--platform=linux/arm64 tengine:2.4.0-gmssl
