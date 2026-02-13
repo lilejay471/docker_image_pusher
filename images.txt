@@ -15,4 +15,4 @@
 #jumpserver/jms_all:v3.10.12
 #kylemanna/openvpn:2.4
 #nacos/nacos-server:v2.4.3
---platform=linux/arm64 wojiushixiaobai/gmssl_nginx:1.24
+--platform=linux/arm64 kiis/nginx-gmssl
