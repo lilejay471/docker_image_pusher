@@ -1,5 +1,5 @@
 #指定AMD架构镜像区域
-#nginx:latest
+nginx:1.23
 #redis:latest
 #minio/minio:latest
 #redis:6.2.1
@@ -15,5 +15,5 @@
 #jumpserver/jms_all:v3.10.12
 #kylemanna/openvpn:2.4
 #nacos/nacos-server:v2.4.3
---platform=linux/arm64 sungyism/tengine:master-alpine-3
---platform=linux/arm64 kiis/nginx-gmssl:alpine-arm
+#--platform=linux/arm64 sungyism/tengine:master-alpine-3
+#--platform=linux/arm64 kiis/nginx-gmssl:alpine-arm
