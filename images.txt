@@ -1,5 +1,5 @@
 #指定AMD架构镜像区域
-nginx:1.23
+nginx:1.20-alpine
 #redis:latest
 #minio/minio:latest
 #redis:6.2.1
