@@ -1,5 +1,5 @@
 #指定AMD架构镜像区域
-nginx:1.20-alpine
+#nginx:1.20-alpine
 #redis:latest
 #minio/minio:latest
 #redis:6.2.1
@@ -11,6 +11,7 @@ nginx:1.20-alpine
 #--platform=linux/arm64 mysql:5.7.44
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 openjdk:17
+--platform=linux/arm64 qinchz/dm8-arm64:latest
 
 #jumpserver/jms_all:v3.10.12
 #kylemanna/openvpn:2.4
